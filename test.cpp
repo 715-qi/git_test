@@ -7,4 +7,5 @@ int main() {
     cout<<"master test";
     cout<<"hot-fix test!";
     cout<<"push test!";
+    cout<<"pull test!";
 }
