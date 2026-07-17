@@ -6,4 +6,5 @@ int main() {
     cout<<"hello git3!";
     cout<<"master test";
     cout<<"hot-fix test!";
+    cout<<"push test!";
 }
